@@ -6,6 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pr2897/isBothObjectSame.git"
+  },
   "author": "Piyush Raj",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pr2897/isBothObjectSame/issues"
+  },
+  "homepage": "https://github.com/pr2897/isBothObjectSame#readme"
 }

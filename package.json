@@ -1,19 +1,19 @@
 {
-  "name": "isbothobjectsame",
-  "version": "2.0.1",
-  "description": "compare two object recursively, if they are same",
+  "name": "object-utility-methods",
+  "version": "1.0.0",
+  "description": "exposes helper methods to ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pr2897/isBothObjectSame.git"
+    "url": "git+https://github.com/pr2897/object-utility-methods.git"
   },
   "author": "Piyush Raj",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pr2897/isBothObjectSame/issues"
+    "url": "https://github.com/pr2897/object-utility-methods/issues"
   },
-  "homepage": "https://github.com/pr2897/isBothObjectSame#readme"
+  "homepage": "https://github.com/pr2897/object-utility-methods#readme"
 }

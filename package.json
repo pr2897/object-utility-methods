@@ -1,6 +1,6 @@
 {
   "name": "isbothobjectsame",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "compare two object recursively, if they are same",
   "main": "index.js",
   "scripts": {

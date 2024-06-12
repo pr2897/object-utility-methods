@@ -1,7 +1,7 @@
 {
   "name": "object-utility-methods",
-  "version": "1.0.0",
-  "description": "exposes helper methods to ",
+  "version": "1.0.1",
+  "description": "exposes helper methods to analysis and manipulating objects",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

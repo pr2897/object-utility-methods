@@ -20,7 +20,7 @@ const payload2 = {
   b: { c: { d: "test", e: [{ c: 1, e: [1, 2], d: 2 }] } },
 };
 
-const { isBothObjectSame } = require("object-utility-methods");
+const { objectUtils: { isBothObjectSame } } = require("object-utility-methods");
 console.log(isBothObjectSame(payload1, payload2)); // true
 ```
 
@@ -36,6 +36,6 @@ const payload2 = {
   b: { c: { d: "test", e: [{ c: 1, e: [1, 2], d: 2 }] } },
 };
 
-const { isBothObjectSame } = require("object-utility-methods");
+const { objectUtils: { isBothObjectSame } } = require("object-utility-methods");
 console.log(isBothObjectSame(payload1, payload2)); // false
 ```

@@ -1,6 +1,6 @@
 {
   "name": "object-utility-methods",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "exposes helper methods to analysis and manipulating objects",
   "main": "index.js",
   "scripts": {
